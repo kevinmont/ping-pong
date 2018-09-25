@@ -1,0 +1,16 @@
+{
+  "name": "pinp-pong",
+  "version": "1.0.0",
+  "description": "ping pong gaming",
+  "main": "ping-pong.js",
+  "scripts": {
+    "test": "node ping-pong.js"
+  },
+  "keywords": [
+    "javascript",
+    "game",
+    "html"
+  ],
+  "author": "kevinmont",
+  "license": "MIT"
+}
